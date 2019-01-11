@@ -120,9 +120,9 @@ namespace TempSensor
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
                 
 #if ARM
-                builder.DataSource = "carlos2395.database.windows.net";   // update me
-                builder.UserID = "carlos";              // update me
-                builder.Password = "p@ssw0rd";      // update me
+                builder.DataSource = "xxxx.database.windows.net";   // update me
+                builder.UserID = "xxxx";              // update me
+                builder.Password = "xxxx";      // update me
                 builder.InitialCatalog = "TempSensor";
 #else
                 builder.ConnectionString = "Server=localhost;Database=master;Trusted_Connection=True;";
