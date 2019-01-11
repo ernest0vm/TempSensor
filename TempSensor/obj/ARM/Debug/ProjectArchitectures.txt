@@ -1,0 +1,1 @@
+C:\Users\ErnestoVM\Desktop\TempSensor\TempSensor\TempSensor.csproj;arm
